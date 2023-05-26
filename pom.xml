@@ -8,10 +8,10 @@
         <version>2.7.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.rewards.spinthewheel</groupId>
-    <artifactId>spinthewheel</artifactId>
+    <groupId>com.mail.notification</groupId>
+    <artifactId>mailnotification</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spin-the-wheel</name>
+    <name>mail-notification</name>
     <description>Spin the Wheel project for Spring Boot</description>
     <properties>
         <java.version>17</java.version>
